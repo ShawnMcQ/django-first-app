@@ -1,0 +1,37 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    color: #333;
+}
+
+h1 {
+    color: #2e8b57;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background: #e6f2ff;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #005f99;
+}
+
+a:hover {
+    color: #ff6600;
+}
+body {
+    background-image: url('/static/polls/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
